@@ -15,3 +15,6 @@
     5. Do not worry about making your project look nice on a mobile device. We’ll learn that later.
     When you finish, don’t forget to push it up to GitHub!
 
+
+Photo by Andrea Piacquadio from Pexels
+Photo by Pixabay from Pexels
